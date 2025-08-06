@@ -116,12 +116,9 @@ Respect news sites' robots.txt policies if scraping
 
 Limit API usage to avoid quota overages
 
-📄 License
-This project is licensed under the MIT License.
-
 🙌 Credits
-Made with ❤️ by @pratyakshcodeclash
-Inspired by OpenAI Agent architecture and modern news summarization tools
+Made with ❤️ by Vatsal
+
 
 
 
