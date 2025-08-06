@@ -1,0 +1,18 @@
+research_task:
+  description: >
+    search news about {topic}
+    Make sure you find any interesting and relevant information given
+    the current year is {current_year}.
+  expected_output: >
+    A list of news articles about {topic} with the title, url and summary of the article.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Review the context you got and expand each topic into a full section for a report.
+    Make sure the report is detailed and contains any and all relevant information.
+  expected_output: >
+    A fully fledged reporting of the news articles with the main topics, each with a full section of information.
+    And also classify each one in categories like tech, sports, politics, entertainment,etc.
+    Formatted as markdown without '```'
+  agent: reporting_analyst
