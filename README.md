@@ -20,8 +20,7 @@ A modular AI system that collects, summarizes, and categorizes local news using 
 ### 1. Clone the Repository
 
 
-git clone https://github.com/pratyakshcodeclash/CrewAI-Local-News-Digest-AI-Agents.git
-cd CrewAI-Local-News-Digest-AI-Agents
+
 2. Install Dependencies
 For Python:
 
